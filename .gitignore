@@ -4,3 +4,10 @@ gasvenv/
 
 #datasets
 data/
+
+#ipynb_checkpoints
+.ipynb_checkpoints/
+
+#pycache
+__pycache__/
+
